@@ -11,27 +11,8 @@ html, body{
 .background {
     width: 100%;
     height: 100%;
-    background-image: url(../images/background.JPG);
+    background-image: url(.../image/background.jpg);
     background-repeat: no-repeat;
     background-size: relative;
     overflow-y: auto;
-}
-p {
-    font-family: sans-serif;
-    }
-ol {
-    line-height: 40px;
-}
-img {
-    border:  ;
-    border-radius: px;letter-spacing: ;
-    padding: ;
-    width: px;
-  }
-.one {
-    font-style: italic;
-}
-body {
-    background-color: #444;
-    color: #ffffff;
 }
