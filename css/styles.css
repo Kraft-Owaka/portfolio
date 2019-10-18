@@ -9,18 +9,18 @@ html, body{
     font-weight: normal;
 }
 .background{
-    width: 100%;
-    height: 100%;
     background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
-    background-size: relative;
+    background-size: 100%;
     overflow-y: auto;
+    filter: greyscale(100%);
+    transition: 0.4s all;
 }
 .nav {
     width: 350px;
     height: auto;
     background-color: gray;
-    position: absolute;
+    position: relative;
     top: 20%;
     left: 0%;
 }
@@ -44,8 +44,8 @@ k.lion {
     color: burlywood;
 }
 .nav a:hover{
-    background-color: yellow;
-    color: burlywood;
+    background-color: black;
+    color: thistle;
     width:100%;
 } 
 .k {
@@ -62,4 +62,7 @@ k.lion {
 }
 .t {
     width:93%;
+}
+# About {
+    
 }
