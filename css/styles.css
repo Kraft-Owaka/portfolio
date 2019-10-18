@@ -32,11 +32,12 @@ html, body{
     height:90px;
     margin: 5px 0;
     float: left;
-    display:inline-block;
+    display: inline-block;
     background-color: black;
     color: white;
     line-height: 90px;
     text-align: center;
+    transition: 300ms;
 }
 k.lion {
     background-color: yellow;
@@ -46,19 +47,19 @@ k.lion {
     background-color: yellow;
     color: burlywood;
     width:100%;
-}
+} 
 .k {
     width: 93%;
 }
 .r {
-    width: 78%;
-}
-.a {
     width: 85%;
 }
+.a {
+    width: 75%;
+}
 .f {
-    width:80%;
+    width:85%;
 }
 .t {
-    width:75%;
+    width:93%;
 }
