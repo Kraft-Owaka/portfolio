@@ -29,7 +29,6 @@ html, body{
     font-size: 28px;
     font-family: Verdana;
     font-weight: bold;
-    width: 100%;
     height:90px;
     margin: 5px 0;
     float: left;
@@ -38,4 +37,28 @@ html, body{
     color: white;
     line-height: 90px;
     text-align: center;
+}
+k.lion {
+    background-color: yellow;
+    color: burlywood;
+}
+.nav a:hover{
+    background-color: yellow;
+    color: burlywood;
+    width:100%;
+}
+.k {
+    width: 93%;
+}
+.r {
+    width: 78%;
+}
+.a {
+    width: 85%;
+}
+.f {
+    width:80%;
+}
+.t {
+    width:75%;
 }
